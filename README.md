@@ -1,4 +1,4 @@
-# FPFX Technologies - React Test
+# Valuetaiment Technologies - React Test
 
 ## Run the project
 
