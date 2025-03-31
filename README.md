@@ -5,9 +5,9 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/rafaelleiv/fpfx-react-test.git
+   git clone https://github.com/Valuetainment/web-developer-test
 
-    cd fpfx-react-test
+    cd web-developer-test
    ```
 
 2. Install the dependencies:
